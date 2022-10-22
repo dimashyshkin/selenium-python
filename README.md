@@ -1,9 +1,7 @@
 # Selenium WebDriver with Python for beginners
 
 Code examples for "Selenium WebDriver with Python for beginners" course on Udemy
-
-# TODO
-https://www.udemy.com/course/selenium-for-beginners/?referralCode=A21BE51035C15406EFA4/
+https://www.udemy.com/course/selenium-webdriver-python-course/?referralCode=58A27F30D4182400844C
 
 Checkout my Selenium courses here https://practicetestautomation.com/courses/
 
