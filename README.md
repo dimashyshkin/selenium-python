@@ -1,8 +1,7 @@
 # Selenium WebDriver with Python for Beginners
 Learn Selenium WebDriver with Python for professional Selenium teDousting and automation.
 
-Code examples for "Selenium WebDriver with Python for beginners" course on Udemy  
-https://www.udemy.com/course/selenium-webdriver-python-course/?referralCode=58A27F30D4182400844C
+Code examples for "**[Selenium WebDriver with Python for beginners](https://www.udemy.com/course/selenium-webdriver-python-course/?referralCode=58A27F30D4182400844C)" course on Udemy  
 
 #### What you'll learn  
  - Set up test automation framework with Selenium WebDriver
@@ -26,8 +25,8 @@ Each step is explained in detail from the WebDriver setup to running your first 
 
 And most importantly, you will be prepared to **receive a promotion at the current job or get a new job** that requires selenium webdriver or other test automation experience.
 
-Checkout my Selenium courses here https://practicetestautomation.com/courses/
+**[Checkout my Selenium courses here](https://practicetestautomation.com/courses/)
 
-Bestseller "XPath locators for Selenium" course - https://www.udemy.com/course/xpath-locators-for-selenium/?referralCode=ACB28329B5AC2333DDCC/
+Bestseller "**[XPath locators for Selenium](https://www.udemy.com/course/xpath-locators-for-selenium/?referralCode=ACB28329B5AC2333DDCC/)" course
 
-And to become Selenium pro, "Advanced Selenium WebDriver with Java and TestNG" course - https://www.udemy.com/course/advanced-selenium-webdriver/?referralCode=3B2C78FCD0550DEA0920/
+And to become Selenium pro, "**[Advanced Selenium WebDriver with Java and TestNG](https://www.udemy.com/course/advanced-selenium-webdriver/?referralCode=3B2C78FCD0550DEA0920/)" course
