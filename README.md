@@ -1,4 +1,4 @@
-# Selenium WebDriver with Python for Beginners
+# Selenium WebDriver: Automation Testing with Python
 Learn Selenium WebDriver with Python for professional Selenium teDousting and automation.
 
 Code examples for "**[Selenium WebDriver with Python for beginners](https://www.udemy.com/course/selenium-webdriver-python-course/?referralCode=58A27F30D4182400844C)**" course on Udemy  
